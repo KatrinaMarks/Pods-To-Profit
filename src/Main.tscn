@@ -3,9 +3,11 @@
 [node name="Main" type="Node2D"]
 
 [node name="Control" type="Control" parent="."]
-margin_right = 40.0
-margin_bottom = 40.0
+margin_right = 425.0
+margin_bottom = 119.0
 
 [node name="Label" type="Label" parent="Control"]
-margin_right = 40.0
-margin_bottom = 14.0
+margin_right = 580.0
+margin_bottom = 192.0
+text = "Adding Text Here
+"
