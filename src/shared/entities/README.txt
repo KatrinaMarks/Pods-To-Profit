@@ -1,0 +1,1 @@
+This folder should contain all the different entities of the game, not really sure of any examples right now.
